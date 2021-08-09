@@ -16,3 +16,4 @@ If you already launched the server with -i and sucessfuly configured it and you 
 -r <nb sous res> 
 
 A video explanation (in french ) is available at : https://youtu.be/-VqNNlpXlbc
+  for more detail you could check this : https://doc.ubuntu-fr.org/isc-dhcp-server
